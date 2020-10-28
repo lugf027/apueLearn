@@ -13,3 +13,7 @@ add_executable(1_7_simpleShell src/ch1/1_7_simpleShell/simpleShell.c)
 add_executable(1_8_errno src/ch1/1_8_errno/errno.c)
 add_executable(1_9_userId src/ch1/1_9_userId/userId.c)
 add_executable(1_10_signalShell src/ch1/1_10_signalShell/signalShell.c)
+
+add_executable(2_14_conf src/ch2/2_14_conf/conf.c)
+add_executable(2_16_dymPath src/ch2/2_16_dymPath/dymPath.c)
+add_executable(2_17_fileOpenNum src/ch2/2_17_fileOpenNum/fileOpenNum.c)
